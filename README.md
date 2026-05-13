@@ -13,6 +13,9 @@ A comprehensive collection of resources and materials for learning Rust programm
 - [Tools & Resources](#tools--resources)
 
 ---
+## Cheatsheets
+- *[Rust Standard - official](https://doc.rust-lang.org/std/index.html)*
+- *[Cheat Sheet - Recommend!!!](https://cheats.rs/)*
 
 ## 📖 Books
 - *[Rust Developer Roadmap !!!](https://roadmap.sh/rust)*
