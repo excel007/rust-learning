@@ -20,6 +20,7 @@ A comprehensive collection of resources and materials for learning Rust programm
 - *[The Rust Programming Language version CS@Brown University](https://rust-book.cs.brown.edu/)*
 - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/)*
 ### Thai Language
+- *Rust by mikelopster [part 1](https://mikelopster.dev/posts/rust-basic-1/) [part 2](https://mikelopster.dev/posts/rust-basic-2/)*
 - *[Rust by Noob Learning](https://book.gist.rs/)*
 - *[Rust The Series by SuperDev Academy](https://www.superdevacademy.com/blogs/categories/Rust%20The%20Series)*
 - *[Workshop EDM - Rust 2024](https://thinknetcompany.github.io/learnrust/intro.html)*
@@ -30,7 +31,9 @@ A comprehensive collection of resources and materials for learning Rust programm
 ## 📺 YouTube videos
 
 - *[Why I'm so bullish about Rust in 2026](https://www.youtube.com/watch?v=WhjEL817Onw)*
+- *[Rust by mikelopster](https://www.youtube.com/watch?v=ejDOIFY05hI)*
 - *[Rust for JS Developer by Noob Learning](https://www.youtube.com/watch?v=4XdREYotK5M&list=PL0gE4a2eG0_NpYKYPeZ5het832UcNhK3N)*
+
 
 ---
 
