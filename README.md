@@ -15,7 +15,7 @@ A comprehensive collection of resources and materials for learning Rust programm
 ---
 
 ## 📖 Books
-
+- *[Rust Developer Roadmap !!!](https://roadmap.sh/rust)*
 - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* (Official Book)
 - *[The Rust Programming Language version CS@Brown University](https://rust-book.cs.brown.edu/)*
 - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/)*
