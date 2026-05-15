@@ -22,6 +22,7 @@ A comprehensive collection of resources and materials for learning Rust programm
 - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* (Official Book)
 - *[The Rust Programming Language version CS@Brown University](https://rust-book.cs.brown.edu/)*
 - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/)*
+- *[The Rust Programming Language | The Official Rust Book | Rust in Action| Programming Rust 2nd Edition](https://github.com/dattgoswami/rust_books)*
 ### Thai Language
 - *Rust by mikelopster [part 1](https://mikelopster.dev/posts/rust-basic-1/) [part 2](https://mikelopster.dev/posts/rust-basic-2/)*
 - *[Rust by Noob Learning](https://book.gist.rs/)*
@@ -174,4 +175,4 @@ Feel free to add more resources, books, courses, or communities by opening an is
 
 ## 📄 License
 
-This resource collection is open source and free to use." 
+This resource collection is open source and free to use."
