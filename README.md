@@ -33,7 +33,7 @@ A comprehensive collection of resources and materials for learning Rust programm
 ---
 
 ## 📺 YouTube videos
-
+- *[5 Essential Rust Design Patterns to Write Better Code](https://www.youtube.com/watch?v=1Ql7sQG8snA)*
 - *[Why I'm so bullish about Rust in 2026](https://www.youtube.com/watch?v=WhjEL817Onw)*
 - *[Rust by mikelopster](https://www.youtube.com/watch?v=ejDOIFY05hI)*
 - *[Rust for JS Developer by Noob Learning](https://www.youtube.com/watch?v=4XdREYotK5M&list=PL0gE4a2eG0_NpYKYPeZ5het832UcNhK3N)*
